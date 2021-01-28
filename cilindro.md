@@ -1,5 +1,6 @@
 
-Algoritmo area_del_cilindro	
+Algoritmo area_del_cilindro
+
 	Escribir "Escriba el rádio en centímetros"
 	Leer radio 
 	
